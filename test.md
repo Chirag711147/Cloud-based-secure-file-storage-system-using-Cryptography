@@ -1,0 +1,1 @@
+The proposed work is aimed to carry out work leading to the development of an approach for Cloud based secure file storage system using Cryptography. Our main objective is very clear i.e., to provide the information about the security of cloud and how different algorithms work to secure the customer’s data.  
